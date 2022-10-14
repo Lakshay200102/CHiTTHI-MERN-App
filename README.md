@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://chitthi-mern-app.herokuapp.com/
 
-## Run on Local Device
+## Run on Local Machine
 Clone the project
 
 ```bash
